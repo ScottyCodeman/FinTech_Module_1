@@ -73,3 +73,6 @@ UoT FinTech module 1 project
 ### It would then make them more accessible and open their market share to an even lower age group.
 ### Similar technologies to what they have in place now, but focusing the *Machine Learning* on getting people out of debt and ways to save.
 ### they give people the attention they need when they are in dire situations.
+
+
+# [References](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\references)
