@@ -1,6 +1,6 @@
 # FinTech_Module_1
 UoT FinTech module 1 project
-[Borrowell logo](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\pictures\borrowell.jpg)
+![Borrowell logo](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\pictures\borrowell.jpg)
 ## Overview and Origin
 
 > * What is the name of the company?
@@ -75,4 +75,4 @@ UoT FinTech module 1 project
 ### they give people the attention they need when they are in dire situations.
 
 
-# [References](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\references)
+![References](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\references)
