@@ -55,6 +55,10 @@ UoT FinTech module 1 project
 
 > * How is your company performing relative to competitors in the same domain?
 
+### 1. Helping the Canadian economy by investing time in helping small buisnesses. And providing their combined financial expertise and technology to help people get captial.
+### 2. Discounted Cash Flow (DCF) and Market Multiple Methods along with Revenue (borrowell has a Revenue of $21.7 million) are good ways to measure success, however the first two arent easily accessible.
+### 3. Borrowell is performing near the top 21st in the Gobal market compared to similar companies.
+
 
 ## Recommendations
 
@@ -65,3 +69,7 @@ UoT FinTech module 1 project
 > * What technologies would this additional product or service utilise?
 
 > * Why are these technologies appropriate for your solution?
+### I would want them to start a program called " Get back to Zero ". It would reinforce the fact that a lot of people could use the help of their AI-Coach to get out of debt.
+### It would then make them more accessible and open their market share to an even lower age group.
+### Similar technologies to what they have in place now, but focusing the *Machine Learning* on getting people out of debt and ways to save.
+### they give people the attention they need when they are in dire situations.
