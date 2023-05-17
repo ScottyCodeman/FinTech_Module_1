@@ -1,5 +1,5 @@
 # FinTech_Module_1
-UoT FinTech module 1 project
+UoT FinTech module 1 project by: Scott Speers
 ![Borrowell logo](pictures/borrowell.jpg)
 ## Overview and Origin
 
