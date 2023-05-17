@@ -75,4 +75,4 @@ UoT FinTech module 1 project
 ### they give people the attention they need when they are in dire situations.
 
 
-![References]([C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\references.ipynb](https://github.com/ScottyCodeman/FinTech_Module_1/blob/main/references/references.ipynb))
+[References](references/references.ipynb)
