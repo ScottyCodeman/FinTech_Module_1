@@ -1,6 +1,6 @@
 # FinTech_Module_1
 UoT FinTech module 1 project
-
+[Borrowell logo](C:\Users\scott\OneDrive\Documents\GitHub\FinTech_Module_1\pictures\borrowell.jpg)
 ## Overview and Origin
 
 > * What is the name of the company?
